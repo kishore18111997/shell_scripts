@@ -10,3 +10,13 @@ then
 else
     echo $car is not your car
 fi
+
+
+read -p "please type a number: " number
+
+if [ $number -gt 50 ]
+then
+	echo the number you have entered is greater than 50
+else
+	echo the number you have entered is lesser than 50
+fi
