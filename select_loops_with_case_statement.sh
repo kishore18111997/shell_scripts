@@ -56,7 +56,7 @@ case $name in
                 echo $name from sweden is the worlds most safest car, they usually test their car in the worstest worst condition, they are also luxurious and classy design, they also tend to give better mileage
 		echo some of the cars from $name are
 		echo $name XC90
-		echo $name XC60
+		echo $name XC30
                 ;;
 	Tayota)
                 echo $name the japan 'make' has impressed the auto enthusiasts with some highly incredible and tuning versatile cars like supra, camry and landcruiser specially $name supra, they have their cars almost all over the world.
