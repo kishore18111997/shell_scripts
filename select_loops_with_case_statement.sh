@@ -6,7 +6,7 @@ select name in Ferrari Lamborghini Bugati McLaren Porsche 'Rolls royce' Volvo Ta
 do
 case $name in
 	Ferrari)
-		echo $name is one of the old car brands 'in' the world which has a great reputation and well known for its sexy looks, $name has scored the highest championships 'in' Formula1
+		echo $name is one of the old car brands 'in' the world which has a great reputation and well known 'for' its sexy looks specially with red colour, $name has scored the highest championships 'in' Formula1
 		echo some of the cars from $name are
 		echo $name 488 pista
 		echo $name F8 tributo
